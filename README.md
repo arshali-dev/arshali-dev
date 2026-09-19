@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>Hi there! I'm Arsh Ali, a Java Full Stack Developer with a strong passion for **backend engineering and scalable application development** 
+👨‍💻 About Me<br><br>Hi there! **I'm Arsh Ali**, a Java Full Stack Developer with a strong passion for **backend engineering and scalable application development** 
 
 ### 💼 Professional Experience
 
