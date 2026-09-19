@@ -1,5 +1,11 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>Hi there! I'm Arsh Ali, a Java Full Stack Developer with a strong passion for **backend engineering and scalable application development.<br><br>I specialize in building reliable backend systems using Java, Spring Boot, Hibernate, REST APIs, and SQL, while also creating responsive frontend applications with React.js.<br><br>🔭 Currently building backend-focused full stack applications  <br>🤝 Open to collaborating on Java, Spring Boot, Backend, and Full Stack projects  <br>🌱 Learning Microservices, System Design, Docker, and Cloud Engineering  <br>💬 Ask me about ava Backend Development, API Design, Database Optimization, and Full Stack Engineering  <br>🎯 Focused on clean architecture, performance optimization, and scalable software development  <br>⚡ Fun fact: Backend development feels like solving engineering puzzles—and I love it ,Coffee + Code + Curiosity = My productivity formula ☕
+👨‍💻 About Me<br><br>Hi there! I'm Arsh Ali, a Java Full Stack Developer with a strong passion for **backend engineering and scalable application development** 
+
+### 💼 Professional Experience
+
+**Software Developer @ ToTheByte Technologies Private Limited**     March 2026 – Present
+
+.<br><br>I specialize in building reliable backend systems using Java, Spring Boot, Hibernate, REST APIs, and SQL, while also creating responsive frontend applications with React.js.<br><br>🔭 Currently building backend-focused full stack applications  <br>🤝 Open to collaborating on Java, Spring Boot, Backend, and Full Stack projects  <br>🌱 Learning Microservices, System Design, Docker, and Cloud Engineering  <br>💬 Ask me about ava Backend Development, API Design, Database Optimization, and Full Stack Engineering  <br>🎯 Focused on clean architecture, performance optimization, and scalable software development  <br>⚡ Fun fact: Backend development feels like solving engineering puzzles—and I love it ,Coffee + Code + Curiosity = My productivity formula ☕
 
 
 ## 🌐 Socials:
